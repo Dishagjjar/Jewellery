@@ -1,0 +1,60 @@
+.element{
+    display: flex;
+    flex-direction: row;
+    margin-top: auto;
+    font-size: 20px;
+}
+.search{
+   margin-top: 40px;
+   margin-left: 60px;
+}
+
+.icons{
+    margin-top:50px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.img{
+    margin-top: 20px;
+   
+}
+.i{
+    align-items: center;
+    justify-content: center;
+   height: 200px;
+    margin-top: 20px;
+}
+
+.text{
+ text-align: center;
+}
+
+.all{
+    text-align: center;
+    color:white;
+    margin-top: 10px;
+    
+}
+.collection{
+    text-align: center;
+    font-style: italic;
+   
+}
+
+
+.footer{
+    background-color: lightblue;
+    padding-top: 20px;
+
+}
+.number{
+    display: flex;
+    flex-direction:row;
+    
+}
+.footer_space{
+    margin-left: 10px;
+}
+.icon-space{
+    margin-top: 5px;
+}
